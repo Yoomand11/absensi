@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>ini coba koding</h1>
+    <input type="button" value="kirim">
+    <h3>ini menu</h3>
 </body>
 </html>
